@@ -1,0 +1,16 @@
+Sum_all_csv_in_this_file_and_arrange.py:
+
+這個檔案可以把所有在這個資料夾裡面的csv轉換成一個要提供訓練的csv，這裡我命名為'123.csv'。
+請把要做LSTM預測的參數放在123.csv的第一欄，這裡我們要預測Temperature，所以把他放在第一欄。
+也用此可以畫出Input的資料圖形。
+
+**PS** 如果下次需要加新的資料，需要先把舊的123.csv刪除，在創造一個新的訓練csv。
+
+
+Main.py:
+這個檔案為LSTM訓練的程式。
+
+操作順序為:
+先跑Sum_all_csv_in_this_file_and_arrange.py 然後生成123.csv，
+再跑Main.py，做訓練。
+
