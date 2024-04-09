@@ -1,0 +1,43 @@
+
+Manual Strategy Stats:
+Period                  In-Sample             Out-of-Sample             
+Strategy                   Manual   Benchmark        Manual    Benchmark
+Cumulative Return        0.272813   0.0102362     0.0862087   -0.0853088
+Average Daily Return  0.000561741  0.00016466    0.00019385 -0.000141175
+Std Daily Return        0.0129192   0.0170412    0.00768295   0.00850128
+Sharpe Ratio             0.690239    0.153387      0.400533    -0.263617
+Experiment 1 Stats:
+Period                   In-Sample                              Out-of-Sample                              
+Strategy                    Manual Strategy Learner   Benchmark        Manual Strategy Learner    Benchmark
+Cumulative Return         0.272813          1.51453   0.0102362     0.0862087        -0.266207   -0.0853088
+Average Daily Return   0.000561741       0.00186708  0.00016466    0.00019385     -0.000586305 -0.000141175
+Std Daily Return         0.0129192       0.00850202   0.0170412    0.00768295       0.00760149   0.00850128
+Sharpe Ratio              0.690239          3.48611    0.153387      0.400533          -1.2244    -0.263617
+Final Portfolio Value       127281           251453      101024        108388          73379.3      91469.1
+Experiment 2 Stats:
+      Cumulative Return  Average Daily Return  Standard Deviation of Daily Returns  Sharpe Ratio  Final Portfolio Value  Trade Count
+0.00           2.225500              0.002360                             0.008216      4.559609               322550.0          224
+0.01           1.411326              0.001780                             0.008039      3.514574               241132.6          199
+0.02           0.534482              0.000896                             0.009662      1.472332               153448.2          164
+0.03           0.194402              0.000401                             0.009879      0.643763               119440.2          127
+Manual Strategy Stats:
+Period                  In-Sample             Out-of-Sample             
+Strategy                   Manual   Benchmark        Manual    Benchmark
+Cumulative Return        0.272813   0.0102362     0.0862087   -0.0853088
+Average Daily Return  0.000561741  0.00016466    0.00019385 -0.000141175
+Std Daily Return        0.0129192   0.0170412    0.00768295   0.00850128
+Sharpe Ratio             0.690239    0.153387      0.400533    -0.263617
+Experiment 1 Stats:
+Period                   In-Sample                              Out-of-Sample                              
+Strategy                    Manual Strategy Learner   Benchmark        Manual Strategy Learner    Benchmark
+Cumulative Return         0.272813          1.51453   0.0102362     0.0862087        -0.266207   -0.0853088
+Average Daily Return   0.000561741       0.00186708  0.00016466    0.00019385     -0.000586305 -0.000141175
+Std Daily Return         0.0129192       0.00850202   0.0170412    0.00768295       0.00760149   0.00850128
+Sharpe Ratio              0.690239          3.48611    0.153387      0.400533          -1.2244    -0.263617
+Final Portfolio Value       127281           251453      101024        108388          73379.3      91469.1
+Experiment 2 Stats:
+      Cumulative Return  Average Daily Return  Standard Deviation of Daily Returns  Sharpe Ratio  Final Portfolio Value  Trade Count
+0.00           2.225500              0.002360                             0.008216      4.559609               322550.0          224
+0.01           1.411326              0.001780                             0.008039      3.514574               241132.6          199
+0.02           0.534482              0.000896                             0.009662      1.472332               153448.2          164
+0.03           0.194402              0.000401                             0.009879      0.643763               119440.2          127
